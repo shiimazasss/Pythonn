@@ -1,2 +1,2 @@
-# Pythonn
-Devzinho de 17 aninhos
+ # LUA
+# FOR MPS DEVS.
